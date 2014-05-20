@@ -2,7 +2,7 @@ php based bookmarks skript
 ==========================
 
 Copyright (c) 2014 Tobias Zeising, tobias.zeising@aditu.de  
-http://www.aditu.de
+http://www.aditu.de<br />
 Licensed under the GPLv3 license  
 Version 0.3
 
